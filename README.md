@@ -29,4 +29,4 @@ A RESTful backend API built to manage a library or inventory system. This projec
 
 1. **Clone this repository:**
    ```bash
-   git clone [https://github.com/rakshitaryano-wq/inventory-management-api.git]
+   git clone https://github.com/rakshitaryano-wq/inventory-management-api.git
